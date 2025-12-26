@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FortuneCookie.Shared/1.0.0": {
+        "runtime": {
+          "FortuneCookie.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FortuneCookie.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

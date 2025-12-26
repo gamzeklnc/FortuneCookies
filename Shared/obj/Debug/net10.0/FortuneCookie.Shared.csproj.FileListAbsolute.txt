@@ -1,0 +1,11 @@
+C:\Users\gamze.kılınc\Desktop\FortuneCookie\Shared\bin\Debug\net10.0\FortuneCookie.Shared.deps.json
+C:\Users\gamze.kılınc\Desktop\FortuneCookie\Shared\bin\Debug\net10.0\FortuneCookie.Shared.dll
+C:\Users\gamze.kılınc\Desktop\FortuneCookie\Shared\bin\Debug\net10.0\FortuneCookie.Shared.pdb
+C:\Users\gamze.kılınc\Desktop\FortuneCookie\Shared\obj\Debug\net10.0\FortuneCookie.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamze.kılınc\Desktop\FortuneCookie\Shared\obj\Debug\net10.0\FortuneCookie.Shared.AssemblyInfoInputs.cache
+C:\Users\gamze.kılınc\Desktop\FortuneCookie\Shared\obj\Debug\net10.0\FortuneCookie.Shared.AssemblyInfo.cs
+C:\Users\gamze.kılınc\Desktop\FortuneCookie\Shared\obj\Debug\net10.0\FortuneCookie.Shared.csproj.CoreCompileInputs.cache
+C:\Users\gamze.kılınc\Desktop\FortuneCookie\Shared\obj\Debug\net10.0\FortuneCookie.Shared.dll
+C:\Users\gamze.kılınc\Desktop\FortuneCookie\Shared\obj\Debug\net10.0\refint\FortuneCookie.Shared.dll
+C:\Users\gamze.kılınc\Desktop\FortuneCookie\Shared\obj\Debug\net10.0\FortuneCookie.Shared.pdb
+C:\Users\gamze.kılınc\Desktop\FortuneCookie\Shared\obj\Debug\net10.0\ref\FortuneCookie.Shared.dll
